@@ -1,0 +1,19 @@
+body {
+    background-image: url("https://images3.alphacoders.com/621/621682.jpg");
+    background-size: cover;
+
+    /* escribí las reglas para el body aquí */
+    }
+    
+    h1 {
+        background-color:black;
+        color:#f4e033;opacity: 0.8;
+    /* escribí las reglas para el h1 aquí */
+    }
+    
+    h2 {
+        color: white;
+        background-color: orange;
+        opacity:0.4;
+    /* escribí las reglas para el h2 aquí */
+    }
